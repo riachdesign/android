@@ -21,8 +21,6 @@
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
   <project path="device/common" name="CyanogenMod/android_device_common" />
-  <project path="device/htc/bravo" name="CyanogenMod/android_device_htc_bravo" />
-  <project path="device/htc/bravoc" name="CyanogenMod/android_device_htc_bravoc" />
   <project path="device/htc/buzz" name="CyanogenMod/android_device_htc_buzz" />
   <project path="external/alsa-lib" name="CyanogenMod/android_external_alsa-lib" />
   <project path="external/alsa-utils" name="CyanogenMod/android_external_alsa-utils" />
